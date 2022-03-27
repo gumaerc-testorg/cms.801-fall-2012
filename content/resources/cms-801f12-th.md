@@ -14,9 +14,9 @@ image_metadata:
   image-alt: An illustrated image of Blanche Walsh, as Juliet from Romeo and Juliet,
     holding a Nook color.
 learning_resource_types: []
-ocw_type: OCWImage
 resourcetype: Image
 title: An illustrated image of Blanche Walsh, as Juliet from Romeo and Juliet, holding
   a Nook color
+type: OCWImage
 uid: f3c3b52c-051c-4b6b-0129-4c1b9b4c5fef
 ---

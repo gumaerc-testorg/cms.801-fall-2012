@@ -2,11 +2,11 @@
 content_type: page
 learning_resource_types:
 - Assignments
-ocw_type: CourseSection
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: e52e1e6d-5892-780c-1ae2-87bf0e826894
 title: Final Paper Assignment
+type: CourseSection
 uid: 8320aace-1e3c-ca4a-76c3-0364a4cd1f6a
 ---
 
