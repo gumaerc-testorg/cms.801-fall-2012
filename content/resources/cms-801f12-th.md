@@ -14,6 +14,7 @@ image_metadata:
   image-alt: An illustrated image of Blanche Walsh, as Juliet from Romeo and Juliet,
     holding a Nook color.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 resourcetype: Image
 title: An illustrated image of Blanche Walsh, as Juliet from Romeo and Juliet, holding
@@ -21,4 +22,3 @@ title: An illustrated image of Blanche Walsh, as Juliet from Romeo and Juliet, h
 uid: f3c3b52c-051c-4b6b-0129-4c1b9b4c5fef
 ---
 Actress Blanche Walsh (January 4, 1873 – October 31, 1915) holding a Nook color. The image of Walsh is based on an 1889 lithograph. (Photo courtesy of Mike Licht on Flickr. CC-BY)
-
