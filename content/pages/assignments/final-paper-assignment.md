@@ -2,11 +2,11 @@
 content_type: page
 learning_resource_types:
 - Assignments
+ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
 parent_uid: e52e1e6d-5892-780c-1ae2-87bf0e826894
 title: Final Paper Assignment
-type: CourseSection
 uid: 8320aace-1e3c-ca4a-76c3-0364a4cd1f6a
 ---
 
@@ -23,4 +23,4 @@ Topics
 4.  Write an essay in which you consider the readings for one class session in depth. In addition to the common readings, you must also read and consider at least three relevant, supplemental readings, which I will provide. How do the readings frame the main issues? Is there consensus or disagreement among the authors? What are the future avenues of research? (N.B.: You may not write on the readings from the week of your class presentation.)
 5.  Propose a topic of your own devising, based on our joint work this semester. Your topic may be one that relates to your Master's thesis, and affords you a chance to draft a portion of that project.
 
-[« Return to Assignments]({{< baseurl >}}/pages/assignments)
+{{% resource_link e52e1e6d-5892-780c-1ae2-87bf0e826894 "« Return to Assignments" %}}
