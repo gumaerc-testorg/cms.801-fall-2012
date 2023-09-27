@@ -1,8 +1,8 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: ''
 title: Assignments
-type: CourseSection
 uid: e52e1e6d-5892-780c-1ae2-87bf0e826894
 ---
 
@@ -11,7 +11,7 @@ First Paper
 
 Five pages–due session 4
 
-Please write a five-page, double-spaced essay in response to one of the topics below. [Read more…]({{< baseurl >}}/pages/assignments/first-paper-assignment)
+Please write a five-page, double-spaced essay in response to one of the topics below. {{% resource_link 78a1ebc9-14c1-7175-f5fd-032fedd69f3d "Read more…" %}}
 
 Proposal for Final Paper
 ------------------------
@@ -25,7 +25,7 @@ Final Paper
 
 Fifteen pages–due session 12
 
-You have several possibilities for your final project. The end product should be a double-spaced paper, ca. fifteen pages in length, on one of the topics listed below. In some cases, with my consent, it may be possible to substitute a substantial, well defined project prepared in a different genre or medium. [Read more…]({{< baseurl >}}/pages/assignments/final-paper-assignment)
+You have several possibilities for your final project. The end product should be a double-spaced paper, ca. fifteen pages in length, on one of the topics listed below. In some cases, with my consent, it may be possible to substitute a substantial, well defined project prepared in a different genre or medium. {{% resource_link 8320aace-1e3c-ca4a-76c3-0364a4cd1f6a "Read more…" %}}
 
 Study Questions for Sessions
 ----------------------------
