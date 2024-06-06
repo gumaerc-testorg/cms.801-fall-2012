@@ -9,8 +9,8 @@ file_type: image/jpeg
 image_metadata:
   caption: "Actress Blanche Walsh (January 4, 1873 \u2013 October 31, 1915) holding\
     \ a Nook color. The image of Walsh is based on an 1889 lithograph. (Photo courtesy\
-    \ of {{% resource_link \"2285faee-3c5b-4350-b515-3b75e3cf1d4a\" \"Mike Licht\"\
-    \ %}} on Flickr. CC-BY)"
+    \ of [Mike Licht](http://www.flickr.com/photos/notionscapital/6457180637/) on\
+    \ Flickr. CC-BY)"
   credit: Photo courtesy of Mike Licht on Flickr. CC-BY
   image-alt: An illustrated image of Blanche Walsh, as Juliet from Romeo and Juliet,
     holding a Nook color.
