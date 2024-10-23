@@ -3,7 +3,7 @@ content_type: resource
 description: "Actress Blanche Walsh (January 4, 1873 \u2013 October 31, 1915) holding\
   \ a Nook color. The image of Walsh is based on an 1889 lithograph. (Photo courtesy\
   \ of Mike Licht on Flickr. CC-BY)"
-file: /courses/cms-801-media-in-transition-fall-2012/f3c3b52c051c4b6b01294c1b9b4c5fef_cms-801f12-th.jpg
+file: /ol-ocw-studio-app/courses/cms-801-media-in-transition-fall-2012/f3c3b52c051c4b6b01294c1b9b4c5fef_cms-801f12-th.jpg
 file_size: 8099
 file_type: image/jpeg
 image_metadata:
